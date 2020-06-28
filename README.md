@@ -1,3 +1,5 @@
+This project is used as tools to test backend endpoints and small stuff in frontend.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
