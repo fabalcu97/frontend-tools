@@ -1,0 +1,8 @@
+.mgrpdf__wrapper {
+  background-color: lightgrey;
+  outline: 1px solid gray;
+}
+.pdf-container {
+  display: block;
+  margin: auto;
+}
